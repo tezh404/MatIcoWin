@@ -1,11 +1,3 @@
-Material icons for windows.
+# MatIcoWin
 
-
-BackLogs
-
-Installation
-Use
-
-- Readme
-- folder names
-- icon size
+Material icons for Windows. Change the folder icons according to their names.
